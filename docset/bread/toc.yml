@@ -1,7 +1,14 @@
 - name: Windows
-  tocHref: /windows/
-  topicHref: /windows/
+  tocHref: /powershell/windows/
+  topicHref: /windows/index
   items:
   - name: Windows PowerShell
     tocHref: /powershell/windows/
+    topicHref: /powershell/module/
+- name: Windows
+  tocHref: /powershell/module/
+  topicHref: /windows/index
+  items:
+  - name: Windows PowerShell
+    tocHref: /powershell/module/
     topicHref: /powershell/module/
