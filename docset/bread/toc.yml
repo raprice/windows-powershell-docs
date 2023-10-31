@@ -5,6 +5,7 @@
   - name: Windows PowerShell
     tocHref: /powershell/windows/
     topicHref: /powershell/module/
+
 - name: Windows
   tocHref: /powershell/module/
   topicHref: /windows/index
@@ -12,3 +13,12 @@
   - name: Windows PowerShell
     tocHref: /powershell/module/
     topicHref: /powershell/module/
+    
+- name: Windows
+  tocHref: /powershell/mdop/
+  topicHref: /powershell/mdop/index
+  items:
+  - name: MDOP
+    tocHref: /powershell/mdop/
+    topicHref: /powershell/mdop/index
+
