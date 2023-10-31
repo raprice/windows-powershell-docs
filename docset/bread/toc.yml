@@ -1,19 +1,7 @@
-- name: Docs
-  tocHref: /
-  topicHref: /
+- name: Windows
+  tocHref: /windows/
+  topicHref: /windows/
   items:
-  - name: Windows
-    tocHref: /windows/
-    topicHref: /windows/
-    items:
-    - name: Windows PowerShell
-      tocHref: /powershell/windows/
-      topicHref: /powershell/windows/get-started
-      items:
-    - name: MDOP PowerShell
-      tocHref: /powershell/mdop/
-      topicHref: /powershell/mdop/get-started
-    - name: PowerShell
-      tocHref: /powershell/module/
-      topicHref: /powershell/module
- 
+  - name: Windows PowerShell
+    tocHref: /powershell/windows/
+    topicHref: /powershell/module/
